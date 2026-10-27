@@ -14,14 +14,14 @@ h3{
     background-color: tomato;
     display: flex;
 }
-.box{
-    height: 200px;
-    width: 200px;
+.boxone {
+    height: 400px;
+    width: 400px;
     background-color: teal;
     margin: 0 auto;
     position: relative;
 }
-.boxtwo{
+.boxtwo {
     position: absolute;
     height: 50px;
     width: 50px;
@@ -29,11 +29,20 @@ h3{
     top: 0;
     left: 0;
 }
-.boxthree{
-     position: absolute;
+.boxthree {
+    position: absolute;
     height: 50px;
     width: 50px;
     background-color: tomato;
     top: 0;
     right: 0;
+}
+.boxfour {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+    bottom: 0;
+    left: 0;
+
 }
