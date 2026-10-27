@@ -7,10 +7,16 @@ h1{
     display: flex;
 }
 h2{
-    background-color: tomatogi;
+    background-color: teal;
     display: flex;
 }
 h3{
-    background-color: teal;
+    background-color: tomato;
     display: flex;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: teal;
+    margin: 0 auto;
 }
