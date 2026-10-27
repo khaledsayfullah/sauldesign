@@ -22,9 +22,18 @@ h3{
     position: relative;
 }
 .boxtwo{
+    position: absolute;
     height: 50px;
     width: 50px;
     background-color: tomato;
     top: 0;
     left: 0;
+}
+.boxthree{
+     position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+    top: 0;
+    right: 0;
 }
