@@ -4,37 +4,36 @@
   padding: 0;
 }
 
-ol,
-ul {
+ol,ul{
   list-style: none;
 }
 a {
   text-decoration: none;
 }
-.container {
+.container{
   margin: 0 auto;
   width: 1320px;
 }
 /* Common Css End */
 
 /* Header Part Start */
-#headerPart {
+#headerPart{
   padding: 50px 0;
   background: #222831;
   border-bottom: 2px solid #eeeeee15;
 }
 
-.header {
+.header{
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.menu ul {
+.menu ul{
   display: flex;
   gap: 48px;
 }
 
-.menu ul a li {
+.menu ul a li{
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 18px;
@@ -44,7 +43,7 @@ a {
 
 /* Banner Part Start */
 
-#bannerPart {
+#bannerPart{
   padding-top: 173px;
   padding-bottom: 73px;
   background: #222831;
@@ -54,16 +53,16 @@ a {
     position: absolute;
   bottom: 400px;
 }
-.bannerContent {
+.bannerContent{
   display: flex;
   gap: 120px;
 }
-.bannerText {
+.bannerText{
   margin-left: 87px;
   margin-top: 50px;
 }
 
-.bannerText h1 {
+.bannerText h1{
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-size: 96px;
@@ -73,14 +72,14 @@ a {
   text-transform: uppercase;
   margin-bottom: 48px;
 }
-.bannerText h1 span {
+.bannerText h1 span{
   color: #00adb5;
 }
-.bannerBtn {
+.bannerBtn{
   display: flex;
   gap: 24px;
 }
-.bannerBtn a {
+.bannerBtn a{
   padding: 10px 32px;
   background: #00adb5;
   border-radius: 24px;
