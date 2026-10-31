@@ -39,6 +39,9 @@ a {
   font-size: 18px;
   color: #eeeeee;
 }
+.menu ul li:hover{
+  border-bottom: 2px solid white;
+}
 /* Header Part End */
 
 /* Banner Part Start */
